@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Natalia, a Front-end developer based in Odessa, Ukraine. I'm passionate about web development and constantly seeking new opportunities to enhance my skills and contribute to real-world projects.
+I'm Natalia, a Frontend developer from Odessa, Ukraine. I'm passionate about web development and constantly seeking new opportunities to enhance my skills and contribute to real-world projects.
 
 ### About Me:
 
